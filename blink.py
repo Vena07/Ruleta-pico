@@ -4,7 +4,7 @@ import machine,time,random
     # led1 do GP1
     # led2 do GP2
     # led3 do GP3
-    # button do GP4 
+    # button1 do GP4 
     # buzzer do GP5 
 
 
